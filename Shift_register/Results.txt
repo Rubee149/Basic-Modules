@@ -1,0 +1,27 @@
+reset=0, data=1, en=0, dir=0, out=xxxxxxxxxxxxxxxx
+reset=0, data=1, en=0, dir=0, out=0000000000000000
+reset=1, data=1, en=1, dir=0, out=0000000000000000
+reset=1, data=0, en=1, dir=0, out=0000000000000001
+reset=1, data=1, en=1, dir=0, out=0000000000000010
+reset=1, data=0, en=1, dir=0, out=0000000000000101
+reset=1, data=1, en=1, dir=0, out=0000000000001010
+reset=1, data=0, en=1, dir=0, out=0000000000010101
+reset=1, data=1, en=1, dir=0, out=0000000000101010
+reset=1, data=0, en=1, dir=0, out=0000000001010101
+reset=1, data=0, en=1, dir=1, out=0000000001010101
+reset=1, data=1, en=1, dir=1, out=0000000000101010
+reset=1, data=0, en=1, dir=1, out=1000000000010101
+reset=1, data=1, en=1, dir=1, out=0100000000001010
+reset=1, data=0, en=1, dir=1, out=1010000000000101
+reset=1, data=1, en=1, dir=1, out=0101000000000010
+reset=1, data=0, en=1, dir=1, out=1010100000000001
+reset=1, data=1, en=1, dir=1, out=0101010000000000
+reset=1, data=1, en=1, dir=1, out=1010101000000000
+reset=1, data=1, en=1, dir=1, out=1101010100000000
+reset=1, data=1, en=1, dir=1, out=1110101010000000
+reset=1, data=1, en=1, dir=1, out=1111010101000000
+reset=1, data=1, en=1, dir=1, out=1111101010100000
+reset=1, data=1, en=1, dir=1, out=1111110101010000
+Test Complete
+shift_reg_tb.v:51: $finish called at 430 (1ns)
+reset=1, data=1, en=1, dir=1, out=1111111010101000
